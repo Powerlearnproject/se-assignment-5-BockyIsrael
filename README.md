@@ -26,7 +26,7 @@ Answer the following questions based on your understanding of the installation a
      3. Accept the terms and conditions:
      * Read the license agreement and check the box to accept the terms
      4. Choose the installation location:
-     * Select the installation location (default is C:/Users<Username>/AppData/Local/Programs/Microsoft VS Code)
+     * Select the installation location (default is C:\Users<Username>\AppData\Local\Programs\Microsoft VS Code)
      5. Choose the start menu folder:
      * Select the start menu folder (default is Visual Studio Code)
      6. Select additional tasks:
